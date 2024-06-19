@@ -28,8 +28,6 @@ Dashboard - 2
 ![Dataset Description](https://github.com/AmilaPoorna/Dashboards/assets/173019371/296d5069-2780-4ea8-911f-875bf4554025)
 Dataset Description
 
-<br>
-
 ## How to Run
 
 1. **Prerequisites**: Ensure you have R and the required packages installed.
