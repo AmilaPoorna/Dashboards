@@ -15,7 +15,7 @@ This Power BI project visualizes employee attrition and income data, providing i
 
 The Power BI dashboard consists of multiple sections, each designed to highlight different aspects of employee attrition and income:
 
-- **Summary Section**: Provides an overview of key metrics such as total employees, attrition rate, total active employees and average monthly income.
+- **Summary Section**: Provides an overview of key metrics such as total employees, attrition rate and average monthly income.
 - **Attrition Analysis**: Breaks down attrition by different categories such as department, total working years and job role.
 - **Income Analysis**: Analyzes income distribution across various job level and education.
 
