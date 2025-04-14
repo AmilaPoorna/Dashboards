@@ -6,6 +6,3 @@ Welcome to the Dashboard Projects Repository. This repository contains a collect
 
 ### 1. Group Project - Employee Attrition and Income Dashboard (Power BI)
 ### 2. Metro Interstate Traffic Volume Dashboard (R Shiny)
-
-## Contact
-For any questions or feedback, please reach out to [arunodamkap@gmail.com](mailto:arunodamkap@gmail.com).
