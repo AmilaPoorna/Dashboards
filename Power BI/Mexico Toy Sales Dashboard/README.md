@@ -1,4 +1,4 @@
-# Group Project - Employee Attrition and Income Dashboard
+# Group Project - Mexico Toy Sales Dashboard
 
 ## Overview
 
@@ -44,18 +44,23 @@ To interact with the dashboard:
 
 <br>
 
-![Attrition Dashboard](https://github.com/AmilaPoorna/Dashboards/assets/173019371/14392365-7484-4e79-a2ce-c5268853903a)
-Attrition Dashboard - 1
+![Dashboard](https://github.com/user-attachments/assets/f2ea4133-ecf0-47dd-a8d7-6dc25df1edc4)
+Summary
 
 <br>
 
-![Attrition Dashboard](https://github.com/AmilaPoorna/Dashboards/assets/173019371/49bb13e0-0c99-4285-b4ca-09f6e2beeff8)
-Attrition Dashboard - 2
+![Dashboard](https://github.com/user-attachments/assets/fb187a25-39f4-47c5-84cb-d0a98f26057c)
+Revenue/Profit
 
 <br>
 
-![Income Dashboard](https://github.com/AmilaPoorna/Dashboards/assets/173019371/170e3315-ff6f-446e-b387-147f4154a59e)
-Income Dashboard
+![Dashboard](https://github.com/user-attachments/assets/f4f93965-ff90-4c91-a45d-bb80457d03ca)
+Units Sold
+
+<br>
+
+![Dashboard](https://github.com/user-attachments/assets/51d9b846-95f5-4c7f-b7af-493f672fd5b1)
+Inventory
 
 ## Summary
 
