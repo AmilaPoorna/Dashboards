@@ -2,45 +2,44 @@
 
 ## Overview
 
-This Power BI project visualizes employee attrition and income data, providing insights into key factors affecting employee turnover and salary distribution. The dashboard leverages various data visualizations to enable detailed analysis and understanding of the underlying trends and patterns.
+This Power BI project analyzes toy sales across Maven toy stores in Mexico, focusing on revenue, profit, units sold, and inventory. The dashboard offers interactive visualizations that provide valuable insights.
 
 ## Contents
 
 1. Dashboard Structure
 2. Visualizations
-3. Custom Visuals
-4. Usage Instructions
+3. Usage Instructions
 
 ### 1. Dashboard Structure
 
-The Power BI dashboard consists of multiple sections, each designed to highlight different aspects of employee attrition and income:
+The **Mexico Toy Sales Dashboard** is structured into multiple pages covering:
 
-- **Summary Sections**: Provides an overview of key metrics such as total employees, attrition rate, total active employees and average monthly income.
-- **Attrition Analysis**: Breaks down attrition by different categories such as department, marital status and job role.
-- **Income Analysis**: Analyzes income distribution across various job roles and education levels.
+- **Summary**: Provides a high-level summary of key counts and totals.
+- **Revenue/Profit**: Breaks down revenu/profit by product names, time periods, etc.
+- **Units Sold**: Highlights sales volume trends across time, weekdays, and cities.
+- **Inventory**: Displays total stock on hand, remaining stock percentage, etc. for top 10 products and so on.
 
 ### 2. Visualizations
 
 The dashboard employs a range of visualizations to present data intuitively:
 
-- **Donut Chart**: Used to illustrate the proportion of employee attrition.
-- **Bar Charts**: Used for comparing attrition rates across different attributes.
-- **Line Chart**: Shows trends in attrition over total years of service.
-- **Treemap**: Shows the average monthly income by job role.
-- **Scatter Plot**: Shows trends in average monthly income with respect to years at the company.
+- **Cards**: Display KPIs like total revenue, total profit, margin percentage, number of stores, and products.
+- **Line Charts**: Show trends over time for revenue, profit, and units sold.
+- **Bar Charts**:
+  - Highest and least profiting 5 products.
+  - Units sold by day of the week.
+- **Map Visualization**: Interactive map for displaying units sold by store city.
+- **Tables**:
+  - Total profit by product category and store location.
+  - Remaining inventory for top 10 products by profit.
 
-### 3. Custom Visuals
-
-The dashboard incorporates custom visuals to enhance data representation:
-
-- **Custom Histogram**: Provides a detailed view of income distribution.
-
-### 4. Usage Instructions
+### 3. Usage Instructions
 
 To interact with the dashboard:
 
-1. **Filtering**: Use a filter pane to narrow down data by specific attributes such as department.
+1. **Filtering**: Use a filter pane to narrow down data by specific attributes such as year and store opened decade.
 2. **Cross-Filtering**: Click on a data point in one visual to highlight or filter related data in other visuals on the same report page.
+3. **Hovering**: Hover over a data point to view exact values and tooltips.
 
 <br>
 
@@ -64,4 +63,4 @@ Inventory
 
 ## Summary
 
-This Power BI dashboard provides a comprehensive tool for analyzing employee attrition and income, leveraging advanced visualizations to uncover actionable insights. It serves as a valuable resource for executives aiming to understand and mitigate factors influencing employee turnover and salary disparities.
+This Power BI dashboard delivers a comprehensive evaluation of toy sales across Maven toy stores in Mexico. It provides insights into the most and least profitable products, patterns in unit sales, and inventory management to support strategic planning and decision-making.
