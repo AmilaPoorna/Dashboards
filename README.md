@@ -5,4 +5,5 @@ Welcome to the Dashboard Projects Repository. This repository contains a collect
 ## Projects
 
 ### 1. Group Project - Employee Attrition and Income Dashboard (Power BI)
-### 2. Metro Interstate Traffic Volume Dashboard (R Shiny)
+### 2. Group Project - Mexico Toy Sales Dashboard (Power BI)
+### 3. Metro Interstate Traffic Volume Dashboard (R Shiny)
